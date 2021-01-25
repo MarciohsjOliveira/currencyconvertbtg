@@ -1,0 +1,6 @@
+package com.oliveira.currencyconvertbtg
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
